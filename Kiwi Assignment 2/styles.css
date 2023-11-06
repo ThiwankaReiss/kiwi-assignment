@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css?family=Leckerli One');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=Lexend');
+@import url('https://fonts.googleapis.com/css?family=Abyssinica SIL');
+@font-face { 
+    src: url(fonts/Poppins-Regular.ttf);
+    font-family: Poppins;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+p{
+    padding-bottom: 20px;
+}
+
+#main-topic-txt{ 
+    font-family: 'Poppins';
+    font-size: xx-large;
+    font-style:bold;
+    text-align :justify;
+    padding-top: 15px;
+    padding-left: 120px;
+    
+}
+
+/*---------------*/
+
+#para-type-1{
+    font-family: 'Poppins';
+    font-size: large;
+    text-align :justify;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 160px;
+    padding-right: 160px;
+}
+
+#red-txt{
+    color: red;
+}
+
+.kiwi-images{
+    padding-bottom: 20px;
+    padding-left: 200px;
+}
+
+/*---------------*/
+.paragraph-txt{
+    font-family: 'Lato';
+}
+
+#sub-topic-txt{
+    font-family: 'Poppins';
+    font-size: 30px;
+    text-align :justify;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 160px;
+}
+
+#para-type-2{
+    padding-left: 30px;
+    padding-left: 200px;
+    width: 40%;
+}
+
+/*---------------*/
+#side{
+    position: absolute;
+    top: 80px;
+    right:30px;
+    width: 200px;
+    height: 100px;
+    border: 3px solid #73AD21;
+}
+
+#end-txt{
+    font-size: 50px;
+    font-family: 'Leckerli One';
+    text-align: center;
+}
+
+.kiwi-side-txt-1{
+    font-family: 'Poppins';
+    font-size: large;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    
+    position: absolute;
+    background-color: #D9D9D9;
+    width: 300px;
+    top: 570px;
+    right:170px;
+}
+
+.kiwi-side-txt-2{
+    font-family: 'Poppins';
+    font-size: x-small;
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 10px;
+
+    position: absolute;
+    background-color: #D9D9D9;
+    width: 300px;
+    top: 600px;
+    right:170px;
+}
+
+.kiwi-side-image{
+    position: absolute;
+    top: 625px;
+    right:170px;
+}
+
+.kiwi-side-txt-3{
+    font-family: 'Abyssinica SIL';
+    font-size: x-small;
+    text-align: center;
+    color: #0047FF;
+    padding-bottom: 20px;
+
+    position: absolute;
+    background-color: #D9D9D9;
+    width: 300px;
+    top: 880px;
+    right:170px;
+}
+
+.kiwi-side-txt-4{
+    font-family: 'Lexend';
+    font-size: small;
+    text-align: center;
+    color: white;
+    background-color: #8F9B00;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+
+    position: absolute;
+    width: 300px;
+    top: 913px;
+    right:170px;
+}
